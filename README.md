@@ -20,6 +20,32 @@
 
 ---
 
+## ✅ **Certificações & Cursos**
+
+
+### 🏅 Certificações & Cursos
+
+| Ano | Certificação / Curso | Plataforma |
+|-----|-----------------------|------------|
+| 2024 | Azure AI Fundamentals (AI-900) | Microsoft |
+
+### 📚 Cursos Realizados
+
+> Formação contínua com foco em desenvolvimento backend, microsserviços, DevSecOps, Git, AWS e JavaScript moderno. Abaixo, uma seleção dos cursos mais relevantes:
+
+| Ano  | 🎓 Curso / Certificação                                                                                   | 🏫 Plataforma | 🔧 Principais Tecnologias / Temas                                                                 |
+|------|------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------|
+| 2023 | ✅ **Testes Unitários em Java, Domine JUnit 4, Mockito e TDD**                                             | Udemy         | JUnit, Mockito, TDD, Cobertura, Builders, Métricas                                              |
+| 2023 | 🔀 **Pacotes, Lambdas, Streams, Interfaces Gráficas**                                                      | Udemy         | Java Avançado, Lambdas, Streams, JavaFX, Swing, Spring Boot, MongoDB                            |
+| 2023 | 🗂 **Git e GitHub do básico ao avançado (com Gist e GitHub Pages)**                                        | Udemy         | Git CLI, Branches, GitHub Pages, Markdown, Pull Request, Rebase, Gist                           |
+| 2023 | 🌦 **Javascript, jQuery, Ajax e JSON do Zero na Prática**                                                 | Udemy         | JavaScript, jQuery, Ajax, JSON, DOM                                                             |
+| 2023 | 🚀 **Introdução ao Node.js + Express**                                                                     | Udemy         | Node.js, Express, EJS, MySQL, Nodemon                                                           |
+| 2023 | ☁️ **Certificação Amazon AWS para Iniciantes**                                                             | Udemy         | AWS S3, EC2, IAM, Buckets, Instâncias Virtuais                                                  |
+| 2023 | 🔧 **Domine Microserviços e Mensageria com Spring Cloud e Docker**                                         | Udemy         | Spring Cloud, Docker, Config Server, Service Discovery, RabbitMQ                                |
+| 2023 | 🧩 **Introdução a Microsserviços**                                                                         | Udemy         | Microsserviços, REST, arquitetura distribuída                                                   |
+| 2022 | 🌐 **Curso Web Moderno com JavaScript**                                                                    | Udemy         | JS, HTML5, CSS3, Node.js, React, Angular, Vue, Webpack, Gulp, Bootstrap, MySQL                 |
+| 2022 | 🔍 **Curso Web AngularJS com CRUD e Rotas**                                                                | Udemy         | AngularJS, CRUD, Single Page Applications                                                       |
+
 ## 🧪 Boas práticas adotadas
 
 - ✅ Testes com TDD, BDD e integração (Testcontainers)
