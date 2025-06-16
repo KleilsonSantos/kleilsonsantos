@@ -77,11 +77,14 @@ Atualmente focado em criar ambientes e projetos que ajudem outros devs a escalar
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary Cards
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KleilsonSantos&show_icons=true&theme=radical&count_private=true&hide=stars" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleilsonSantos&layout=compact&langs_count=6&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KleilsonSantos&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KleilsonSantos&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KleilsonSantos&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KleilsonSantos&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KleilsonSantos&theme=github_dark&utcOffset=-3" alt="Productive Time" />
 </p>
 
 ---
