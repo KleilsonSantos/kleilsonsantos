@@ -7,18 +7,16 @@
 </h3>
 
 <p align="center">
-  <!-- Contato Principal -->
   <a href="https://www.linkedin.com/in/kleilson-dev-full-stack/" target="_blank">
     <img src="https://img.shields.io/badge/-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kleilsonsantos.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  <a href="mailto:kleilson@icloud.com">
+    <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=icloud&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/KleilsonSantos?tab=repositories">
     <img src="https://img.shields.io/badge/-PORTFÓLIO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Portfolio"/>
   </a>
   
-  <!-- Estatísticas -->
   <img src="https://komarev.com/ghpvc/?username=KleilsonSantos&label=PROFILE+VIEWS&style=for-the-badge&color=22D3EE&labelColor=22D3EE" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/KleilsonSantos?style=for-the-badge&label=FOLLOWERS&color=181717&labelColor=181717&logo=github" alt="GitHub Followers"/>
 </p>
@@ -31,9 +29,6 @@
 - 🛠️ Gosto de criar ferramentas e infraestruturas para aumentar a produtividade de outros devs
 
 ---
-
-## ✅ **Certificações & Cursos**
-
 
 ### 🏅 Certificações & Cursos
 
@@ -58,7 +53,7 @@
 | 2022 | 🌐 **Curso Web Moderno com JavaScript**                                                                    | Udemy         | JS, HTML5, CSS3, Node.js, React, Angular, Vue, Webpack, Gulp, Bootstrap, MySQL                 |
 | 2022 | 🔍 **Curso Web AngularJS com CRUD e Rotas**                                                                | Udemy         | AngularJS, CRUD, Single Page Applications                                                       |
 
-## 🧪 Boas práticas adotadas
+### 🧪 Boas práticas adotadas
 
 - ✅ Testes com TDD, BDD e integração (Testcontainers)
 - ✅ Segurança via OWASP Dependency-Check e SonarQube
@@ -140,20 +135,9 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </p>
 
-### 🛠️ Skills & Ferramentas
+### 📬 Contato
 
-```txt
-Java · Spring Boot · Spring Security · JWT · OAuth2 · Node.js · Express
-MongoDB · PostgreSQL · Redis · Docker · Docker Compose · GitHub Actions
-Testcontainers · JUnit · Mockito · Swagger · Prometheus · Grafana
-```
----
-
-## 📬 Contato
-
-- 📧 Email: kleilsonsantos.dev@gmail.com  
+- 📧 Email: kleilson@icloud.com  
 - 🔗 LinkedIn: [linkedin.com/in/kleilson-dev-full-stack](https://linkedin.com/in/kleilson-dev-full-stack)
-
----
 
 <p align="center">⚡ *Construa com segurança, teste com propósito, automatize com clareza.*<br>by Kleilson Santos 🚀</p>
