@@ -1,14 +1,26 @@
-<h1 align="center">Olá 👋, eu sou Kleilson Santos</h1>
-<h3 align="center">Desenvolvedor Full Stack focado em qualidade, segurança e performance</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá, eu sou Kleilson Santos
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software;Arquiteto+de+APIs+Seguras" alt="Animation 2" />
+</h3>
 
 <p align="center">
+  <!-- Contato Principal -->
   <a href="https://www.linkedin.com/in/kleilson-dev-full-stack/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kleilson%20Santos-blue?logo=linkedin&style=flat" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/KleilsonSantos" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=KleilsonSantos&style=flat&color=brightgreen" alt="Profile Views" />
+  <a href="mailto:kleilsonsantos.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/github/followers/KleilsonSantos?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/KleilsonSantos?tab=repositories">
+    <img src="https://img.shields.io/badge/-PORTFÓLIO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Portfolio"/>
+  </a>
+  
+  <!-- Estatísticas -->
+  <img src="https://komarev.com/ghpvc/?username=KleilsonSantos&label=PROFILE+VIEWS&style=for-the-badge&color=22D3EE&labelColor=22D3EE" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/KleilsonSantos?style=for-the-badge&label=FOLLOWERS&color=181717&labelColor=181717&logo=github" alt="GitHub Followers"/>
 </p>
 
 ### 🚀 Sobre mim
@@ -88,29 +100,45 @@
 
 ---
 
-## 🔧 Ferramentas DevSecOps & Observabilidade
+## 🛠️ Tech Stack
 
-![SonarQube](https://img.shields.io/badge/SonarQube-%2300B4AB.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-%230072CE.svg?style=for-the-badge&logo=portainer&logoColor=white)
-![Mongo Express](https://img.shields.io/badge/Mongo%20Express-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%2347A248.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![RedisInsight](https://img.shields.io/badge/RedisInsight-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
----
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+</p>
 
-### 📡 Exporters e Monitoramento
+### 🔍 Observabilidade & Qualidade
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/cAdvisor-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="cAdvisor">
+</p>
 
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![cAdvisor](https://img.shields.io/badge/cAdvisor-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Node Exporter](https://img.shields.io/badge/Node%20Exporter-%2300BFFF.svg?style=for-the-badge&logo=linux&logoColor=white)
-![MongoDB Exporter](https://img.shields.io/badge/MongoDB%20Exporter-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres Exporter](https://img.shields.io/badge/Postgres%20Exporter-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL Exporter](https://img.shields.io/badge/MySQL%20Exporter-%2347A248.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis Exporter](https://img.shields.io/badge/Redis%20Exporter-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ Exporter](https://img.shields.io/badge/RabbitMQ%20Exporter-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
----
+### 🗃️ Database Tools
+<p>
+  <img src="https://img.shields.io/badge/Mongo_Express-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo Express">
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin">
+  <img src="https://img.shields.io/badge/phpMyAdmin-47A248?style=for-the-badge&logo=mysql&logoColor=white" alt="phpMyAdmin">
+  <img src="https://img.shields.io/badge/RedisInsight-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="RedisInsight">
+</p>
+
+### 🔧 Ferramentas de Desenvolvimento
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+</p>
 
 ### 🛠️ Skills & Ferramentas
 
