@@ -145,4 +145,4 @@
 - 📧 Email: kleilson@icloud.com  
 - 🔗 LinkedIn: [linkedin.com/in/kleilson-dev-full-stack](https://linkedin.com/in/kleilson-dev-full-stack)
 
-<p align="center">⚡ *Construa com segurança, teste com propósito, automatize com clareza.*<br>by Kleilson Santos 🚀</p>
+<p align="center">⚡ Construa com segurança, teste com propósito, automatize com clareza.<br>by Kleilson Santos 🚀</p>
