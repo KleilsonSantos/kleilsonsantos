@@ -45,7 +45,7 @@
 
 - 🚀 Migração de microsserviços **Spring Boot 2→3 e 3→4** com zero downtime, eliminando 100% das APIs depreciadas
 - 🔒 Triagem e remediação de CVEs com **Mend e Fortify** em produtos bancários, reduzindo vulnerabilidades críticas em **50%**
-- ✅ Cobertura **JaCoCo ≥ 80%** sustentada em todos os microsserviços do ecossistema `purchase`
+- ✅ Cobertura **JaCoCo ≥ 80%** sustentada nos microsserviços com testes unitários, integração e Testcontainers
 - 🛠️ **GitOps end-to-end** com ArgoCD, Gitea e k3d, reproduzível localmente com um único comando
 - 🤖 Autoria de **10 agentes customizados do GitHub Copilot**, 7 prompts e 6 arquivos de instruções para 4 microsserviços (SDD)
 - ⭐ **330+ contribuições** no GitHub no último ano | conquistas: Pull Shark ×3, Quickdraw, YOLO
@@ -56,7 +56,6 @@
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| 🏗️ [purchase-ecosystem](https://github.com/KleilsonSantos) | Java 21, Spring Boot 4.x, Kafka, PostgreSQL 16, Kubernetes, ArgoCD | 4 microsserviços event-driven com Saga distribuída, DLQ, idempotência, GitOps e observabilidade. Camada SDD completa: 10 agentes Copilot, 7 prompts, 6 arquivos de instruções |
 | 🔐 [VaultSpring](https://github.com/KleilsonSantos/VaultSpring) | Spring Boot, HashiCorp Vault, Testcontainers | Gestão segura de segredos com autenticação robusta e testes de integração avançados |
 | 📊 [infra-devtools](https://github.com/KleilsonSantos/infra-devtools) | Docker, SonarQube, Prometheus, Grafana, OWASP | Stack DevSecOps com monitoramento, segurança e automação via Makefile |
 | 🤖 [ai-driven](https://github.com/KleilsonSantos/ai-driven) | Shell Script, Aider, Claude, GPT-4, Ollama | Assistente AI-driven para desenvolvimento: integração com múltiplos LLMs (Anthropic, OpenAI, Ollama) via CLI para agentic coding |
@@ -255,3 +254,4 @@
 - 🔗 LinkedIn: [linkedin.com/in/kleilson-dev-full-stack](https://linkedin.com/in/kleilson-dev-full-stack)
 
 <p align="center">⚡ Construa com segurança, teste com propósito, automatize com clareza.<br>by Kleilson Santos 🚀</p>
+
