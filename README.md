@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=600&lines=Senior+Java+Backend+Engineer;Spring+Boot+%C2%B7+Kafka+%C2%B7+Microservices;DevSecOps+%26+AppSec+%7C+OWASP+Top+10;AI+Agentic+Engineering+%7C+GitHub+Copilot;Hexagonal+Architecture+%7C+GitOps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=620&lines=Senior+Java+Backend+Engineer;Spring+Boot+%C2%B7+Kafka+%C2%B7+Microservices;DevSecOps+%26+AppSec+%7C+OWASP+Top+10;AI+Agentic+Engineering+%7C+GitHub+Copilot;Hexagonal+Architecture+%7C+GitOps;Clean+Code+%7C+SOLID+%7C+DDD" alt="Typing Animation" />
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@
   <a href="https://github.com/KleilsonSantos?tab=repositories">
     <img src="https://img.shields.io/badge/-PORTFÓLIO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Portfolio"/>
   </a>
-  
+
   <img src="https://komarev.com/ghpvc/?username=KleilsonSantos&label=PROFILE+VIEWS&style=for-the-badge&color=22D3EE&labelColor=22D3EE" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/KleilsonSantos?style=for-the-badge&label=FOLLOWERS&color=181717&labelColor=181717&logo=github" alt="GitHub Followers"/>
 </p>
@@ -30,11 +30,12 @@
 
 ### 🚀 Sobre mim
 
-- 🏢 **Senior Java Backend Engineer** na **Capgemini Brasil** — cliente Bradesco (banking industry), squad Application Security & Backend Java
-- 💡 **9+ anos** projetando microsserviços event-driven com **Java 21**, **Spring Boot 4.x** e **Apache Kafka**
+- 🏢 **Senior Java Backend Engineer** na **Capgemini Brasil** — 9+ anos em serviços financeiros e banking industry (clientes: **Bradesco** e **Banco do Brasil**)
+- 💡 Projeta microsserviços event-driven com **Java 21**, **Spring Boot 4.x** e **Apache Kafka** em arquitetura **Hexagonal (Ports and Adapters)**
 - 🔐 Praticante de **DevSecOps** e **AppSec**: Mend (SCA), Fortify (SAST), OWASP Top 10, CVE triage e cobertura JaCoCo ≥ 80%
-- 🤖 **AI Agentic Engineering** com **GitHub Copilot** (Chat, Agent Mode, Edits) e **Spec-Driven Development (SDD)**
-- ⚙️ Especialista em **Arquitetura Hexagonal**, Saga distribuída, DLQ, idempotência e GitOps (ArgoCD + k3d)
+- 🤖 **AI Agentic Engineering** com **GitHub Copilot** (Chat, Agent Mode, Edits) e **Spec-Driven Development (SDD)**; automação de workflows com **n8n + Agentes de IA**
+- 🏛️ Referência em **Clean Code**, **SOLID**, **Clean/Hexagonal Architecture** e **Domain-Driven Design (DDD)**
+- ⚙️ GitOps end-to-end com **ArgoCD**, Gitea e k3d; observabilidade com **Prometheus** e **Grafana**
 - ☁️ Certificado **Microsoft Azure AI Fundamentals (AI-900)** | Experiência com AWS (S3, EC2)
 - 📍 Paulo Afonso, BA — **disponível para trabalho remoto**
 
@@ -55,22 +56,28 @@
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| 🏗️ [purchase-ecosystem](https://github.com/KleilsonSantos) | Java 21, Spring Boot 4.x, Kafka, PostgreSQL 16, Kubernetes, ArgoCD | 4 microsserviços event-driven com Saga distribuída, DLQ, idempotência, GitOps e observabilidade. Camada SDD completa com 10 agentes Copilot |
+| 🏗️ [purchase-ecosystem](https://github.com/KleilsonSantos) | Java 21, Spring Boot 4.x, Kafka, PostgreSQL 16, Kubernetes, ArgoCD | 4 microsserviços event-driven com Saga distribuída, DLQ, idempotência, GitOps e observabilidade. Camada SDD completa: 10 agentes Copilot, 7 prompts, 6 arquivos de instruções |
 | 🔐 [VaultSpring](https://github.com/KleilsonSantos/VaultSpring) | Spring Boot, HashiCorp Vault, Testcontainers | Gestão segura de segredos com autenticação robusta e testes de integração avançados |
 | 📊 [infra-devtools](https://github.com/KleilsonSantos/infra-devtools) | Docker, SonarQube, Prometheus, Grafana, OWASP | Stack DevSecOps com monitoramento, segurança e automação via Makefile |
-| ⚙️ [Mongo RestFull API](https://github.com/KleilsonSantos/Mongo-RestFull-API) | Node.js, Express, MongoDB | API REST robusta com testes, middlewares e segurança aplicada |
+| 🤖 [ai-driven](https://github.com/KleilsonSantos/ai-driven) | Shell Script, Aider, Claude, GPT-4, Ollama | Assistente AI-driven para desenvolvimento: integração com múltiplos LLMs (Anthropic, OpenAI, Ollama) via CLI para agentic coding |
+| 🛡️ [appsec-daily-hub](https://github.com/KleilsonSantos/appsec-daily-hub) | HTML, OWASP, CVE feeds | Central de notícias diárias sobre vulnerabilidades críticas, ferramentas OWASP e tutoriais de segurança de software |
+| ⚙️ [Mongo RestFull API](https://github.com/KleilsonSantos/Mongo-RestFull-API) | Node.js, Express, TypeScript, MongoDB | API REST robusta com testes, middlewares e segurança aplicada |
 | 🛒 [OrderProcessingSystem](https://github.com/KleilsonSantos/OrderProcessingSystem) | Java 17, Spring Batch, Redis | Sistema de pedidos com processamento assíncrono e alta performance |
 
 ---
 
 ### 🧪 Boas Práticas
 
-- ✅ **Spec-Driven Development (SDD)** com agentes customizados do GitHub Copilot
-- ✅ Testes com **TDD, BDD e integração** (JUnit 5, Mockito, MockMvc, Testcontainers)
-- ✅ **AppSec**: Mend (SCA), Fortify (SAST), OWASP Dependency-Check, CVE triage
-- ✅ **CI/CD** com GitHub Actions, ArgoCD e validações antes do deploy
-- ✅ **Observabilidade** com Prometheus, Grafana, Micrometer e Spring Boot Actuator
-- ✅ ADRs e documentação de Best Practices adotados como padrão do squad
+- ✅ **Clean Code** e **SOLID** — nomenclatura intencional, responsabilidade única, inversão de dependência
+- ✅ **Clean Architecture** / **Hexagonal (Ports and Adapters)** — isolamento de domínio e infraestrutura
+- ✅ **Domain-Driven Design (DDD)** — aggregates, bounded contexts, ubiquitous language
+- ✅ **Spec-Driven Development (SDD)** com agentes customizados do GitHub Copilot e arquivos de instruções (`applyTo`)
+- ✅ **TDD, BDD e testes de integração** — JUnit 5, Mockito, MockMvc, Testcontainers, JaCoCo ≥ 80%
+- ✅ **AppSec**: Mend (SCA), Fortify (SAST), OWASP Dependency-Check, CVE triage, HashiCorp Vault
+- ✅ **CI/CD** com GitHub Actions, ArgoCD e validações automatizadas antes do deploy
+- ✅ **Observabilidade** — Prometheus, Grafana, Micrometer, Spring Boot Actuator (liveness/readiness probes)
+- ✅ **ADRs** e documentação de Best Practices adotados como padrão do squad
+- ✅ **Conventional Commits** + Git workflow com branches `feat/`, `fix/`, `chore/` a partir de `main` atualizado
 
 ---
 
@@ -82,19 +89,66 @@
 
 ---
 
-### 📚 Cursos Relevantes
+### 📚 Cursos e Certificados Udemy
 
-> Formação contínua com foco em desenvolvimento backend, microsserviços, DevSecOps, Git, AWS e JavaScript moderno.
+> 28 certificados organizados por domínio de competência — formação contínua alinhada ao perfil Senior Backend Engineer.
 
-| Ano  | 🎓 Curso / Certificação | 🏫 Plataforma | 🔧 Principais Tecnologias |
-|------|-------------------------|---------------|---------------------------|
-| 2023 | ✅ **Testes Unitários em Java, Domine JUnit 4, Mockito e TDD** | Udemy | JUnit, Mockito, TDD, Cobertura |
-| 2023 | 🔀 **Pacotes, Lambdas, Streams, Interfaces Gráficas** | Udemy | Java Avançado, Lambdas, Streams |
-| 2023 | 🗂 **Git e GitHub do básico ao avançado** | Udemy | Git CLI, Branches, GitHub Pages, Rebase |
-| 2023 | 🚀 **Introdução ao Node.js + Express** | Udemy | Node.js, Express, MySQL |
-| 2023 | ☁️ **Certificação Amazon AWS para Iniciantes** | Udemy | AWS S3, EC2, IAM |
-| 2023 | 🔧 **Domine Microserviços e Mensageria com Spring Cloud e Docker** | Udemy | Spring Cloud, Docker, RabbitMQ |
-| 2022 | 🌐 **Curso Web Moderno com JavaScript** | Udemy | JS, HTML5, CSS3, Node.js, React, Angular |
+#### 🤖 AI & Automação
+| Ano | 🎓 Curso | 🔧 Tecnologias |
+|-----|----------|----------------|
+| 2025 | **Automação com n8n e Agentes de Inteligência Artificial** | n8n, AI Agents, LLM, Automação de Workflows |
+| 2025 | **Engenharia de Prompts com IA Completo** | Prompt Engineering, ChatGPT, Claude, Gemini |
+| 2025 | **Acelerando o Desenvolvimento com GitHub Copilot** | GitHub Copilot, Agent Mode, Edits, SDD |
+
+#### 🏛️ Arquitetura de Software
+| Ano | 🎓 Curso | 🔧 Tecnologias |
+|-----|----------|----------------|
+| 2024 | **Arquitetura Hexagonal com Java — C1** | Java, Hexagonal, Ports and Adapters |
+| 2024 | **Arquitetura Hexagonal — Ports and Adapters na Prática** | Java, Hexagonal, DDD, Clean Architecture |
+
+#### ⚙️ Backend — Kafka
+| Ano | 🎓 Curso | 🔧 Tecnologias |
+|-----|----------|----------------|
+| 2024 | **Spring Boot Kafka — Arquitetura Completa de Microservices** | Spring Boot, Kafka, Docker, Microservices |
+| 2024 | **Apache Kafka para Iniciantes** | Kafka, KRaft, Producers, Consumers, Topics |
+
+#### ⚙️ Backend — Java & Microsserviços
+| Ano | 🎓 Curso | 🔧 Tecnologias |
+|-----|----------|----------------|
+| 2023 | **Testes Unitários em Java — JUnit 4, Mockito e TDD** | JUnit, Mockito, TDD, Cobertura, Métricas |
+| 2023 | **Java — Pacotes, Lambdas, Streams e Interfaces Gráficas** | Java Avançado, Lambdas, Streams, Spring Boot |
+| 2023 | **Domine Microsserviços e Mensageria com Spring Cloud e Docker** | Spring Cloud, Docker, RabbitMQ, Config Server |
+| 2023 | **Introdução a Microsserviços** | Microsserviços, REST, Arquitetura Distribuída |
+
+#### ⚙️ Backend — Node.js & Python
+| Ano | 🎓 Curso | 🔧 Tecnologias |
+|-----|----------|----------------|
+| 2023 | **Introdução ao Node.js + Express** | Node.js, Express, EJS, MySQL |
+| 2024 | **Programação em Python do Básico ao Avançado** | Python, OOP, APIs, Automação |
+
+#### ☁️ Cloud
+| Ano | 🎓 Curso | 🔧 Tecnologias |
+|-----|----------|----------------|
+| 2023 | **Certificação Amazon AWS para Iniciantes** | AWS S3, EC2, IAM, VPC |
+| 2023 | **Fundamentals AI-900 Exam Prep** | Azure AI, Cognitive Services, ML Fundamentals |
+
+#### 🔧 DevOps & Ferramentas
+| Ano | 🎓 Curso | 🔧 Tecnologias |
+|-----|----------|----------------|
+| 2023 | **Git e GitHub do Básico ao Avançado** | Git CLI, Branches, Rebase, Pull Requests, Gist |
+
+#### 🌐 Frontend
+| Ano | 🎓 Curso | 🔧 Tecnologias |
+|-----|----------|----------------|
+| 2024 | **Angular 2 v17 — TypeScript do Básico ao Avançado** | Angular, TypeScript, RxJS, HTTP Client |
+| 2022 | **Angular JS na Prática** | AngularJS, CRUD, SPA, Rotas |
+| 2023 | **Aprenda JavaScript, jQuery, Ajax e JSON do Zero na Prática** | JavaScript, jQuery, Ajax, DOM |
+
+#### 📘 TypeScript
+| Ano | 🎓 Curso | 🔧 Tecnologias |
+|-----|----------|----------------|
+| 2024 | **TypeScript do Básico ao Avançado com React e Express** | TypeScript, React, Express, Node.js |
+| 2024 | **Aprenda TypeScript em 7 Dias com Projetos Reais** | TypeScript, Interfaces, Generics, Decorators |
 
 ---
 
