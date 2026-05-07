@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software;Arquiteto+de+APIs+Seguras" alt="Animation 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=600&lines=Senior+Java+Backend+Engineer;Spring+Boot+%C2%B7+Kafka+%C2%B7+Microservices;DevSecOps+%26+AppSec+%7C+OWASP+Top+10;AI+Agentic+Engineering+%7C+GitHub+Copilot;Hexagonal+Architecture+%7C+GitOps" alt="Typing Animation" />
 </h3>
 
 <p align="center">
@@ -26,56 +26,75 @@
   <img src="https://img.shields.io/github/followers/KleilsonSantos?style=for-the-badge&label=FOLLOWERS&color=181717&labelColor=181717&logo=github" alt="GitHub Followers"/>
 </p>
 
+---
+
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente desenvolvendo aplicações com foco em **segurança, performance e escalabilidade**
-- 🧠 Stack: `Java` · `Spring Boot` · `Node.js` · `Express.js` · `Docker` · `MongoDB` · `PostgreSQL`
-- 🔐 Apaixonado por DevSecOps, AppSec, CI/CD, observabilidade e clean code
-- 🛠️ Gosto de criar ferramentas e infraestruturas para aumentar a produtividade de outros devs
+- 🏢 **Senior Java Backend Engineer** na **Capgemini Brasil** — cliente Bradesco (banking industry), squad Application Security & Backend Java
+- 💡 **9+ anos** projetando microsserviços event-driven com **Java 21**, **Spring Boot 4.x** e **Apache Kafka**
+- 🔐 Praticante de **DevSecOps** e **AppSec**: Mend (SCA), Fortify (SAST), OWASP Top 10, CVE triage e cobertura JaCoCo ≥ 80%
+- 🤖 **AI Agentic Engineering** com **GitHub Copilot** (Chat, Agent Mode, Edits) e **Spec-Driven Development (SDD)**
+- ⚙️ Especialista em **Arquitetura Hexagonal**, Saga distribuída, DLQ, idempotência e GitOps (ArgoCD + k3d)
+- ☁️ Certificado **Microsoft Azure AI Fundamentals (AI-900)** | Experiência com AWS (S3, EC2)
+- 📍 Paulo Afonso, BA — **disponível para trabalho remoto**
 
 ---
 
-### 🏅 Certificações & Cursos
+### 🏆 Conquistas
 
-| Ano | Certificação / Curso | Plataforma |
-|-----|-----------------------|------------|
-| 2024 | Azure AI Fundamentals (AI-900) | Microsoft |
-
-### 📚 Cursos Realizados
-
-> Formação contínua com foco em desenvolvimento backend, microsserviços, DevSecOps, Git, AWS e JavaScript moderno. Abaixo, uma seleção dos cursos mais relevantes:
-
-| Ano  | 🎓 Curso / Certificação                                                                                   | 🏫 Plataforma | 🔧 Principais Tecnologias / Temas                                                                 |
-|------|------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------|
-| 2023 | ✅ **Testes Unitários em Java, Domine JUnit 4, Mockito e TDD**                                             | Udemy         | JUnit, Mockito, TDD, Cobertura, Builders, Métricas                                              |
-| 2023 | 🔀 **Pacotes, Lambdas, Streams, Interfaces Gráficas**                                                      | Udemy         | Java Avançado, Lambdas, Streams, JavaFX, Swing, Spring Boot, MongoDB                            |
-| 2023 | 🗂 **Git e GitHub do básico ao avançado (com Gist e GitHub Pages)**                                        | Udemy         | Git CLI, Branches, GitHub Pages, Markdown, Pull Request, Rebase, Gist                           |
-| 2023 | 🌦 **Javascript, jQuery, Ajax e JSON do Zero na Prática**                                                 | Udemy         | JavaScript, jQuery, Ajax, JSON, DOM                                                             |
-| 2023 | 🚀 **Introdução ao Node.js + Express**                                                                     | Udemy         | Node.js, Express, EJS, MySQL, Nodemon                                                           |
-| 2023 | ☁️ **Certificação Amazon AWS para Iniciantes**                                                             | Udemy         | AWS S3, EC2, IAM, Buckets, Instâncias Virtuais                                                  |
-| 2023 | 🔧 **Domine Microserviços e Mensageria com Spring Cloud e Docker**                                         | Udemy         | Spring Cloud, Docker, Config Server, Service Discovery, RabbitMQ                                |
-| 2023 | 🧩 **Introdução a Microsserviços**                                                                         | Udemy         | Microsserviços, REST, arquitetura distribuída                                                   |
-| 2022 | 🌐 **Curso Web Moderno com JavaScript**                                                                    | Udemy         | JS, HTML5, CSS3, Node.js, React, Angular, Vue, Webpack, Gulp, Bootstrap, MySQL                 |
-| 2022 | 🔍 **Curso Web AngularJS com CRUD e Rotas**                                                                | Udemy         | AngularJS, CRUD, Single Page Applications                                                       |
-
-### 🧪 Boas práticas adotadas
-
-- ✅ Testes com TDD, BDD e integração (Testcontainers)
-- ✅ Segurança via OWASP Dependency-Check e SonarQube
-- ✅ CI/CD com GitHub Actions e validações antes do deploy
-- ✅ Observabilidade com Prometheus + Grafana
-- ✅ Makefiles e documentação clara para onboard rápido
+- 🚀 Migração de microsserviços **Spring Boot 2→3 e 3→4** com zero downtime, eliminando 100% das APIs depreciadas
+- 🔒 Triagem e remediação de CVEs com **Mend e Fortify** em produtos bancários, reduzindo vulnerabilidades críticas em **50%**
+- ✅ Cobertura **JaCoCo ≥ 80%** sustentada em todos os microsserviços do ecossistema `purchase`
+- 🛠️ **GitOps end-to-end** com ArgoCD, Gitea e k3d, reproduzível localmente com um único comando
+- 🤖 Autoria de **10 agentes customizados do GitHub Copilot**, 7 prompts e 6 arquivos de instruções para 4 microsserviços (SDD)
+- ⭐ **330+ contribuições** no GitHub no último ano | conquistas: Pull Shark ×3, Quickdraw, YOLO
 
 ---
 
 ### 🧰 Principais Projetos
 
 | Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| 🔐 [VaultSpring](https://github.com/KleilsonSantos/VaultSpring) | Spring Boot, Vault, Testcontainers | Sistema seguro com autenticação e testes de integração avançados |
-| 📊 [infra-devtools](https://github.com/KleilsonSantos/infra-devtools) | Docker, SonarQube, Portainer | Stack para devs com monitoramento, segurança e automações |
+|---------|-------------|-----------|
+| 🏗️ [purchase-ecosystem](https://github.com/KleilsonSantos) | Java 21, Spring Boot 4.x, Kafka, PostgreSQL 16, Kubernetes, ArgoCD | 4 microsserviços event-driven com Saga distribuída, DLQ, idempotência, GitOps e observabilidade. Camada SDD completa com 10 agentes Copilot |
+| 🔐 [VaultSpring](https://github.com/KleilsonSantos/VaultSpring) | Spring Boot, HashiCorp Vault, Testcontainers | Gestão segura de segredos com autenticação robusta e testes de integração avançados |
+| 📊 [infra-devtools](https://github.com/KleilsonSantos/infra-devtools) | Docker, SonarQube, Prometheus, Grafana, OWASP | Stack DevSecOps com monitoramento, segurança e automação via Makefile |
 | ⚙️ [Mongo RestFull API](https://github.com/KleilsonSantos/Mongo-RestFull-API) | Node.js, Express, MongoDB | API REST robusta com testes, middlewares e segurança aplicada |
 | 🛒 [OrderProcessingSystem](https://github.com/KleilsonSantos/OrderProcessingSystem) | Java 17, Spring Batch, Redis | Sistema de pedidos com processamento assíncrono e alta performance |
+
+---
+
+### 🧪 Boas Práticas
+
+- ✅ **Spec-Driven Development (SDD)** com agentes customizados do GitHub Copilot
+- ✅ Testes com **TDD, BDD e integração** (JUnit 5, Mockito, MockMvc, Testcontainers)
+- ✅ **AppSec**: Mend (SCA), Fortify (SAST), OWASP Dependency-Check, CVE triage
+- ✅ **CI/CD** com GitHub Actions, ArgoCD e validações antes do deploy
+- ✅ **Observabilidade** com Prometheus, Grafana, Micrometer e Spring Boot Actuator
+- ✅ ADRs e documentação de Best Practices adotados como padrão do squad
+
+---
+
+### 🏅 Certificações
+
+| Ano | Certificação | Plataforma |
+|-----|--------------|------------|
+| 2023 | Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft |
+
+---
+
+### 📚 Cursos Relevantes
+
+> Formação contínua com foco em desenvolvimento backend, microsserviços, DevSecOps, Git, AWS e JavaScript moderno.
+
+| Ano  | 🎓 Curso / Certificação | 🏫 Plataforma | 🔧 Principais Tecnologias |
+|------|-------------------------|---------------|---------------------------|
+| 2023 | ✅ **Testes Unitários em Java, Domine JUnit 4, Mockito e TDD** | Udemy | JUnit, Mockito, TDD, Cobertura |
+| 2023 | 🔀 **Pacotes, Lambdas, Streams, Interfaces Gráficas** | Udemy | Java Avançado, Lambdas, Streams |
+| 2023 | 🗂 **Git e GitHub do básico ao avançado** | Udemy | Git CLI, Branches, GitHub Pages, Rebase |
+| 2023 | 🚀 **Introdução ao Node.js + Express** | Udemy | Node.js, Express, MySQL |
+| 2023 | ☁️ **Certificação Amazon AWS para Iniciantes** | Udemy | AWS S3, EC2, IAM |
+| 2023 | 🔧 **Domine Microserviços e Mensageria com Spring Cloud e Docker** | Udemy | Spring Cloud, Docker, RabbitMQ |
+| 2022 | 🌐 **Curso Web Moderno com JavaScript** | Udemy | JS, HTML5, CSS3, Node.js, React, Angular |
 
 ---
 
@@ -91,7 +110,7 @@
 
 ---
 
-### 📈 Estatísticas Extras
+### 📈 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KleilsonSantos&show_icons=true&theme=github_dark&count_private=true" alt="Stats" />
@@ -102,43 +121,79 @@
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
+### ☕ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
+  <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 4">
+  <img src="https://img.shields.io/badge/Spring_Security_6-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security 6">
+  <img src="https://img.shields.io/badge/Spring_Kafka-6DB33F?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Spring Kafka">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+</p>
+
+### 📨 Mensageria & Streaming
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+</p>
+
+### ☁️ Cloud, Containers & GitOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+</p>
+
+### 🔐 AppSec & DevSecOps
+<p>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
 </p>
 
 ### 🔍 Observabilidade & Qualidade
 <p>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/cAdvisor-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="cAdvisor">
+  <img src="https://img.shields.io/badge/Micrometer-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Micrometer">
 </p>
 
-### 🗃️ Database Tools
+### 🗃️ Bancos de Dados
 <p>
-  <img src="https://img.shields.io/badge/Mongo_Express-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo Express">
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin">
-  <img src="https://img.shields.io/badge/phpMyAdmin-47A248?style=for-the-badge&logo=mysql&logoColor=white" alt="phpMyAdmin">
-  <img src="https://img.shields.io/badge/RedisInsight-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="RedisInsight">
-</p>
-
-### 🔧 Ferramentas de Desenvolvimento
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
+  <img src="https://img.shields.io/badge/PostgreSQL_16-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway">
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
+
+### 🤖 AI & Agentic Coding
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+</p>
+
+### 🔧 Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin">
+  <img src="https://img.shields.io/badge/RedisInsight-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="RedisInsight">
+</p>
+
+---
 
 ### 📬 Contato
 
