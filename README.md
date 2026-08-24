@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=620&lines=Senior+Java+Backend+Engineer;Spring+Boot+%C2%B7+Kafka+%C2%B7+Microservices;DevSecOps+%26+AppSec+%7C+OWASP+Top+10;AI+Agentic+Engineering+%7C+GitHub+Copilot;Hexagonal+Architecture+%7C+GitOps;Clean+Code+%7C+SOLID+%7C+DDD" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Senior+Backend+%2F+Full+Stack;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Microservices;AppSec+%26+DevSecOps+%7C+Banking+%2F+Financial+Services;AI+Applied+Engineering+%7C+GitHub+Copilot+%C2%B7+SDD;Hexagonal+Architecture+%7C+GitOps+%7C+ArgoCD;Clean+Code+%7C+SOLID+%7C+DDD" alt="Typing Animation" />
 </h3>
 
 <p align="center">
@@ -33,43 +33,74 @@
 
 ### 🚀 Sobre mim
 
-- 🏢 **Senior Java Backend Engineer** na **Capgemini Brasil** — **9+ anos** em serviços financeiros e banking industry (clientes: **Bradesco** e **Banco do Brasil**)
-- 🎯 Foco: microsserviços event-driven, AppSec e AI Agentic Engineering para sistemas críticos do setor financeiro
-- 💡 Projeta soluções com **Java 21**, **Spring Boot 4.x** e **Apache Kafka** em arquitetura **Hexagonal (Ports and Adapters)**
+- 🏢 **Software Engineer / Senior Backend (Full Stack com ênfase em backend)** — **9+ anos**, incluindo **Capgemini Brasil** (ago. 2022 – jul. 2026) em **banking / financial services** (clientes: **Bradesco** e **Banco do Brasil**)
+- 🎯 Foco: microsserviços event-driven, **AppSec** e **DevSecOps** em sistemas críticos do setor financeiro — **AI Applied Engineering como acelerador de produtividade**, não o eixo da carreira
+- 💡 Projeta soluções com **Java 21**, **Spring Boot 4.x** e **Apache Kafka** em arquitetura **Hexagonal (Ports and Adapters)** — Saga, DLQ e idempotência
 - 🖥️ Full stack na prática: Angular (v2→v17+), AngularJS, **React** e **TypeScript**
-- 🔐 Praticante de **DevSecOps** e **AppSec**: Mend (SCA), Fortify (SAST), OWASP Top 10, CVE triage e cobertura JaCoCo ≥ 80%
-- 🤖 **AI Agentic Engineering** com **GitHub Copilot** (Chat, Agent Mode, Edits) e **Spec-Driven Development (SDD)**; automação com **n8n + Agentes de IA**
+- 🔐 **AppSec** e **DevSecOps**: Mend (SCA), Fortify (SAST), SonarQube, OWASP Dependency-Check, CVE triage e cobertura **JaCoCo ≥ 80%** (JUnit 5, Testcontainers)
 - 🏛️ Referência em **Clean Code**, **SOLID**, **Clean/Hexagonal Architecture** e **Domain-Driven Design (DDD)**
-- ⚙️ GitOps end-to-end com **ArgoCD**, Gitea e k3d; observabilidade com **Prometheus** e **Grafana**
+- ⚙️ GitOps end-to-end com **ArgoCD**, Gitea e k3d; observabilidade com **Prometheus**, **Grafana** e Spring Actuator
 - ☁️ Certificado **Microsoft Azure AI Fundamentals (AI-900)** | Experiência com AWS (S3, EC2)
-- 📍 Paulo Afonso, BA — **disponível para trabalho remoto**
+- 📍 Paulo Afonso, BA — **disponível para trabalho remoto** (CLT ou PJ) · **aberto a oportunidades**
+
+> Conteúdo alinhado ao [portfólio](https://kleilson-portfolio.pages.dev) — somente informações verificáveis (CV · GitHub · LinkedIn).
+
+---
+
+### 🤖 AI Applied Engineering
+
+> Extensão da disciplina de engenharia de software — acelera entrega e qualidade sem substituir o núcleo **Java · AppSec · microsserviços**.
+
+| Área | Prática |
+|------|---------|
+| **IDE & pair programming** | GitHub Copilot (Chat, Agent Mode, Edits) · agentes customizados · arquivos de instruções IDE-agnósticos (`AGENTS.md`, `applyTo`) |
+| **Spec-Driven Development** | 10 agentes Copilot customizados, 7 prompts e 6 `applyTo` em 4 microsserviços — intent → spec → implementação |
+| **Automação & workflows** | n8n + agentes de IA · prompt engineering (ChatGPT, Claude, Gemini) |
+| **Open source (labs)** | [AIOS](https://github.com/KleilsonSantos/ai-operating-system) — control plane de governança de IA no SDLC (MCP, quality gates) · [AIOS Companion](https://github.com/KleilsonSantos/aios-companion) — experiência CLI/UI sobre o control plane |
+| **Formação** | Azure AI-900 · cursos Udemy em Copilot, n8n, prompt engineering e IA aplicada |
 
 ---
 
 ### 🏆 Conquistas
 
-- 🚀 Migração de microsserviços **Spring Boot 2→3 e 3→4** com zero downtime, eliminando 100% das APIs depreciadas
-- 🔒 Triagem e remediação de CVEs com **Mend e Fortify** em produtos bancários, reduzindo vulnerabilidades críticas em **50%**
-- ✅ Cobertura **JaCoCo ≥ 80%** sustentada nos microsserviços com testes unitários, integração e Testcontainers
-- 🛠️ **GitOps end-to-end** com ArgoCD, Gitea e k3d, reproduzível localmente com um único comando
-- 🤖 Autoria de **10 agentes customizados do GitHub Copilot**, 7 prompts e 6 arquivos de instruções para 4 microsserviços (SDD)
-- 🌐 Portfólio profissional open source (**React + Vite + Workers Free + Decap**) em [kleilson-portfolio](https://github.com/KleilsonSantos/kleilson-portfolio)
+- 🚀 Migração **Spring Boot 2→3→4** sem downtime — 100% das APIs depreciadas eliminadas
+- 🔒 Redução de **50%** em vulnerabilidades críticas com **Mend (SCA)** e **Fortify (SAST)** em produtos bancários
+- 📡 **20+ APIs RESTful** em Spring Boot com arquitetura hexagonal, Kafka, Saga, DLQ e idempotência
+- ✅ Cobertura **JaCoCo ≥ 80%** sustentada com JUnit 5, Testcontainers e gates de qualidade em CI
+- 🛠️ **GitOps end-to-end** com ArgoCD, Gitea e k3d — reproduzível localmente com um único comando
+- 🤖 **AI Applied**: 10 agentes Copilot, 7 prompts e 6 `applyTo` aplicando **SDD** em microsserviços reais
+- 🧠 Open source **AIOS / Companion** — governança de IA no SDLC (intent → políticas → agents-as-plugins → quality gates)
+- 🌐 Portfólio enterprise-ready (**React 19 + Vite 8 + Cloudflare + Supabase + Decap CMS**) — [site](https://kleilson-portfolio.pages.dev) · [repo](https://github.com/KleilsonSantos/kleilson-portfolio)
 - ⭐ **330+ contribuições** no GitHub no último ano | conquistas: Pull Shark ×3, Quickdraw, YOLO
 
 ---
 
 ### 🧰 Principais Projetos
 
+#### Destaques — Backend · AppSec · Full Stack
+
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| 🏦 [banking](https://github.com/KleilsonSantos/banking) | Java 21, Spring Boot, Angular 18, Kubernetes, Prometheus | Monorepo full stack com observabilidade e CI/CD alinhado a práticas de plataforma bancária |
-| 🌐 [kleilson-portfolio](https://github.com/KleilsonSantos/kleilson-portfolio) | React, Vite, Cloudflare Pages/Workers, Decap, Supabase | Portfólio enterprise-ready — conteúdo auditável, CMS Git-backed e API Free tier ([site](https://kleilson-portfolio.pages.dev)) |
-| 🔐 [VaultSpring](https://github.com/KleilsonSantos/VaultSpring) | Spring Boot, HashiCorp Vault, Testcontainers | Gestão segura de segredos com autenticação robusta e testes de integração avançados |
-| 📊 [infra-devtools](https://github.com/KleilsonSantos/infra-devtools) | Docker, SonarQube, Prometheus, Grafana, OWASP | Stack DevSecOps com monitoramento, segurança e automação via Makefile |
-| 🤖 [ai-driven](https://github.com/KleilsonSantos/ai-driven) | Shell Script, Aider, Claude, GPT-4, Ollama | Assistente AI-driven para desenvolvimento: integração com múltiplos LLMs via CLI |
-| 🛡️ [appsec-daily-hub](https://github.com/KleilsonSantos/appsec-daily-hub) | HTML, OWASP, CVE feeds | Central de notícias diárias sobre vulnerabilidades críticas e tutoriais AppSec |
-| ⚙️ [Mongo RestFull API](https://github.com/KleilsonSantos/Mongo-RestFull-API) | Node.js, Express, TypeScript, MongoDB | API REST robusta com JWT, middlewares e práticas de segurança |
-| 🛒 [OrderProcessingSystem](https://github.com/KleilsonSantos/OrderProcessingSystem) | Java 17, Spring Batch, Redis | Sistema de pedidos com processamento assíncrono e alta performance |
+| 🏦 [banking](https://github.com/KleilsonSantos/banking) | Java 21, Spring Boot, Angular 18, Kubernetes, Prometheus, GitOps | Plataforma full stack bancária — observabilidade, segurança e CI/CD alinhados a práticas de plataforma |
+| 🌐 [kleilson-portfolio](https://github.com/KleilsonSantos/kleilson-portfolio) | React 19, Vite 8, TypeScript, Cloudflare, Supabase, Decap | Portfólio enterprise-ready — conteúdo auditável, ADRs, CMS Git-backed ([site](https://kleilson-portfolio.pages.dev)) |
+| 🔐 [VaultSpring](https://github.com/KleilsonSantos/VaultSpring) | Spring Boot, HashiCorp Vault, Testcontainers | Gestão segura de segredos — AppSec operacional com testes de integração reproduzíveis |
+| 📊 [infra-devtools](https://github.com/KleilsonSantos/infra-devtools) | Docker, SonarQube, Prometheus, Grafana, OWASP | Stack DevSecOps para times — qualidade, segurança e monitoramento via Makefile |
+
+#### Labs — AI Applied Engineering
+
+| Projeto | Tecnologias | Descrição |
+|---------|-------------|-----------|
+| 🧠 [AIOS](https://github.com/KleilsonSantos/ai-operating-system) | TypeScript, MCP, Turborepo, React, Vitest | Control plane open source de governança de IA no SDLC (intent → políticas → quality gates) |
+| 💬 [AIOS Companion](https://github.com/KleilsonSantos/aios-companion) | TypeScript, React 19, Vite, MCP, Node.js | Experiência CLI/UI sobre o AIOS — Conversation Manager, doctor e auditoria |
+| 🤖 [ai-driven](https://github.com/KleilsonSantos/ai-driven) | Shell Script, AI Workflows | Toolkit de automações AI-driven — linha anterior à disciplina AI Applied (AIOS/Companion) |
+
+#### Outros projetos
+
+| Projeto | Tecnologias | Descrição |
+|---------|-------------|-----------|
+| 🛡️ [appsec-daily-hub](https://github.com/KleilsonSantos/appsec-daily-hub) | HTML, OWASP, DevSecOps | Hub de conteúdo AppSec — vulnerabilidades críticas, ferramentas OWASP e tutoriais |
+| ⚙️ [Mongo-RestFull-API](https://github.com/KleilsonSantos/Mongo-RestFull-API) | Node.js, Express, TypeScript, MongoDB, JWT | API REST com CRUD, autenticação JWT e middlewares de segurança |
+| 🛒 [OrderProcessingSystem](https://github.com/KleilsonSantos/OrderProcessingSystem) | Java, Spring Boot, Spring Batch, Redis | Processamento assíncrono de pedidos com foco em performance e alto volume |
 
 ---
 
@@ -78,7 +109,8 @@
 - ✅ **Clean Code** e **SOLID** — nomenclatura intencional, responsabilidade única, inversão de dependência
 - ✅ **Clean Architecture** / **Hexagonal (Ports and Adapters)** — isolamento de domínio e infraestrutura
 - ✅ **Domain-Driven Design (DDD)** — aggregates, bounded contexts, ubiquitous language
-- ✅ **Spec-Driven Development (SDD)** com agentes customizados do GitHub Copilot e arquivos de instruções (`applyTo`)
+- ✅ **AI Applied Engineering** — GitHub Copilot, **Spec-Driven Development (SDD)**, agentes customizados, prompt engineering e arquivos de instruções (`AGENTS.md`, `applyTo`) IDE-agnósticos
+- ✅ **Governança de IA no SDLC** — intent → spec → implementação → quality gates (labs open source AIOS/Companion)
 - ✅ **TDD, BDD e testes de integração** — JUnit 5, Mockito, MockMvc, Testcontainers, JaCoCo ≥ 80%
 - ✅ **AppSec**: Mend (SCA), Fortify (SAST), OWASP Dependency-Check, CVE triage, HashiCorp Vault
 - ✅ **CI/CD** com GitHub Actions, ArgoCD e validações automatizadas antes do deploy
@@ -100,7 +132,7 @@
 
 > **23 cursos Udemy** (evidência em certificados locais) + certificação Microsoft AI-900 — alinhados ao perfil Senior Backend / Full Stack.
 
-#### 🤖 AI & Automação
+#### 🤖 AI Applied Engineering
 | Ano | 🎓 Curso | 🔧 Tecnologias |
 |-----|----------|----------------|
 | 2025 | **Automação com n8n e Agentes de Inteligência Artificial** | n8n, AI Agents, LLM, Automação de Workflows |
@@ -243,10 +275,14 @@
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS">
 </p>
 
-### 🤖 AI & Agentic Coding
+### 🤖 AI Applied Engineering
 <p>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/Spec--Driven_Development-22D3EE?style=for-the-badge&logo=gitbook&logoColor=white" alt="SDD">
+  <img src="https://img.shields.io/badge/MCP-412991?style=for-the-badge&logo=protocol&logoColor=white" alt="MCP">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=googlebard&logoColor=white" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/Azure_AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI-900">
 </p>
 
 ### 🔧 Ferramentas
