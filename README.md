@@ -68,7 +68,19 @@ Mais de 9 anos em sistemas do setor financeiro: microsserviços event-driven, Ap
 | 🔐 [VaultSpring](https://github.com/KleilsonSantos/VaultSpring) | Serviço Spring Boot de credenciais seguras, com segredos no HashiCorp Vault, autenticação JWT/RBAC e CI DevSecOps | Spring Boot, Vault, PostgreSQL, Flyway, Testcontainers |
 | ☁️ [cloud-event-lab](https://github.com/KleilsonSantos/cloud-event-lab) | Lab de eventos cloud-native multi-cloud, com profiles local, AWS, Azure e GCP validados em emuladores (não é produção em cloud real) | Java 21, Spring Boot, OpenTelemetry, React, Kubernetes |
 
-### Outros
+#### AIOS: fluxo de governança
+
+```mermaid
+flowchart LR
+    subgraph AIOS["AIOS · control plane"]
+        direction LR
+        I[Intent] --> P[Políticas] --> A[Agents-as-plugins] --> Q[Quality gates]
+    end
+    C["AIOS Companion<br/>(experiência CLI/UI)"] -->|MCP / CLI| AIOS
+```
+
+<details>
+<summary><strong>Outros projetos (6)</strong></summary>
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
@@ -79,23 +91,53 @@ Mais de 9 anos em sistemas do setor financeiro: microsserviços event-driven, Ap
 | 🛡️ [appsec-daily-hub](https://github.com/KleilsonSantos/appsec-daily-hub) | Hub de conteúdo AppSec: vulnerabilidades críticas, ferramentas OWASP e tutoriais | HTML, OWASP |
 | 🛒 [OrderProcessingSystem](https://github.com/KleilsonSantos/OrderProcessingSystem) | Processamento assíncrono de pedidos com foco em performance | Java, Spring Boot, Spring Batch, Redis |
 
+</details>
+
 ---
 
 ## 📊 GitHub Summary Cards
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KleilsonSantos&theme=github_dark" alt="Detalhes do perfil" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KleilsonSantos&theme=github_dark" alt="Estatísticas" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KleilsonSantos&theme=github_dark&utcOffset=-3" alt="Horário mais produtivo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KleilsonSantos&theme=github_dark" alt="Repositórios por linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KleilsonSantos&theme=github_dark" alt="Linguagens mais usadas em commits" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KleilsonSantos&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KleilsonSantos&theme=github">
+    <img alt="Detalhes do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KleilsonSantos&theme=github_dark">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KleilsonSantos&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KleilsonSantos&theme=github">
+    <img alt="Estatísticas" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KleilsonSantos&theme=github_dark">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KleilsonSantos&theme=github_dark&utcOffset=-3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KleilsonSantos&theme=github&utcOffset=-3">
+    <img alt="Horário mais produtivo" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KleilsonSantos&theme=github_dark&utcOffset=-3">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KleilsonSantos&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KleilsonSantos&theme=github">
+    <img alt="Repositórios por linguagem" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KleilsonSantos&theme=github_dark">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KleilsonSantos&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KleilsonSantos&theme=github">
+    <img alt="Linguagens mais usadas em commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KleilsonSantos&theme=github_dark">
+  </picture>
 </p>
 
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KleilsonSantos&show_icons=true&theme=github_dark&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KleilsonSantos&theme=github_dark" alt="Sequência de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=KleilsonSantos&show_icons=true&theme=dark_github&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=KleilsonSantos&show_icons=true&theme=light_github&count_private=true">
+    <img alt="Estatísticas do GitHub" src="https://github-stats-extended.vercel.app/api?username=KleilsonSantos&show_icons=true&theme=dark_github&count_private=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=KleilsonSantos&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=KleilsonSantos&theme=default">
+    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=KleilsonSantos&theme=dark">
+  </picture>
 </p>
 
 ---
