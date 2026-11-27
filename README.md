@@ -140,6 +140,16 @@ flowchart LR
   </picture>
 </p>
 
+## 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KleilsonSantos/kleilsonsantos/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KleilsonSantos/kleilsonsantos/output/github-snake.svg">
+    <img alt="Gráfico de contribuições animado com uma cobra percorrendo os dias" src="https://raw.githubusercontent.com/KleilsonSantos/kleilsonsantos/output/github-snake-dark.svg">
+  </picture>
+</p>
+
 ---
 
 ## 🛠️ Competências
