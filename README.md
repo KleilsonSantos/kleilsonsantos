@@ -1,306 +1,63 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-</div>
-
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá, eu sou Kleilson Santos<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Senior+Backend+%2F+Full+Stack;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Microservices;AppSec+%26+DevSecOps+%7C+Banking+%2F+Financial+Services;AI+Applied+Engineering+%7C+GitHub+Copilot+%C2%B7+SDD;Hexagonal+Architecture+%7C+GitOps+%7C+ArgoCD;Clean+Code+%7C+SOLID+%7C+DDD" alt="Typing Animation" />
-</h3>
+<h1 align="center">Kleilson dos Santos</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kleilson-dev-full-stack/" target="_blank">
-    <img src="https://img.shields.io/badge/-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kleilson@icloud.com">
-    <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=icloud&logoColor=white&labelColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://kleilson-portfolio.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-SITE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=F38020" alt="Site"/>
-  </a>
-  <a href="https://github.com/KleilsonSantos/kleilson-portfolio">
-    <img src="https://img.shields.io/badge/-PORTFÓLIO_REPO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Portfolio Repo"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=KleilsonSantos&label=PROFILE+VIEWS&style=for-the-badge&color=22D3EE&labelColor=22D3EE" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/KleilsonSantos?style=for-the-badge&label=FOLLOWERS&color=181717&labelColor=181717&logo=github" alt="GitHub Followers"/>
+  <strong>Analista de Sistemas Sênior na CI&amp;T</strong><br>
+  Engenharia backend e full stack sênior: microsserviços Java, AppSec e DevSecOps, com IA aplicada e governança.
 </p>
-
----
-
-### 🚀 Sobre mim
-
-- 🏢 **Software Engineer / Senior Backend (Full Stack com ênfase em backend)** — **9+ anos**, incluindo **Capgemini Brasil** (ago. 2022 – jul. 2026) em **banking / financial services** (clientes: **Bradesco** e **Banco do Brasil**)
-- 🎯 Foco: microsserviços event-driven, **AppSec** e **DevSecOps** em sistemas críticos do setor financeiro — **AI Applied Engineering como acelerador de produtividade**, não o eixo da carreira
-- 💡 Projeta soluções com **Java 21**, **Spring Boot 4.x** e **Apache Kafka** em arquitetura **Hexagonal (Ports and Adapters)** — Saga, DLQ e idempotência
-- 🖥️ Full stack na prática: Angular (v2→v17+), AngularJS, **React** e **TypeScript**
-- 🔐 **AppSec** e **DevSecOps**: Mend (SCA), Fortify (SAST), SonarQube, OWASP Dependency-Check, CVE triage e cobertura **JaCoCo ≥ 80%** (JUnit 5, Testcontainers)
-- 🏛️ Referência em **Clean Code**, **SOLID**, **Clean/Hexagonal Architecture** e **Domain-Driven Design (DDD)**
-- ⚙️ GitOps end-to-end com **ArgoCD**, Gitea e k3d; observabilidade com **Prometheus**, **Grafana** e Spring Actuator
-- ☁️ Certificado **Microsoft Azure AI Fundamentals (AI-900)** | Experiência com AWS (S3, EC2)
-- 📍 Paulo Afonso, BA — **disponível para trabalho remoto** (CLT ou PJ) · **aberto a oportunidades**
-
-> Conteúdo alinhado ao [portfólio](https://kleilson-portfolio.pages.dev) — somente informações verificáveis (CV · GitHub · LinkedIn).
-
----
-
-### 🤖 AI Applied Engineering
-
-> Extensão da disciplina de engenharia de software — acelera entrega e qualidade sem substituir o núcleo **Java · AppSec · microsserviços**.
-
-| Área | Prática |
-|------|---------|
-| **IDE & pair programming** | GitHub Copilot (Chat, Agent Mode, Edits) · agentes customizados · arquivos de instruções IDE-agnósticos (`AGENTS.md`, `applyTo`) |
-| **Spec-Driven Development** | 10 agentes Copilot customizados, 7 prompts e 6 `applyTo` em 4 microsserviços — intent → spec → implementação |
-| **Automação & workflows** | n8n + agentes de IA · prompt engineering (ChatGPT, Claude, Gemini) |
-| **Open source (labs)** | [AIOS](https://github.com/KleilsonSantos/ai-operating-system) — control plane de governança de IA no SDLC (MCP, quality gates) · [AIOS Companion](https://github.com/KleilsonSantos/aios-companion) — experiência CLI/UI sobre o control plane |
-| **Formação** | Azure AI-900 · cursos Udemy em Copilot, n8n, prompt engineering e IA aplicada |
-
----
-
-### 🏆 Conquistas
-
-- 🚀 Migração **Spring Boot 2→3→4** sem downtime — 100% das APIs depreciadas eliminadas
-- 🔒 Redução de **50%** em vulnerabilidades críticas com **Mend (SCA)** e **Fortify (SAST)** em produtos bancários
-- 📡 **20+ APIs RESTful** em Spring Boot com arquitetura hexagonal, Kafka, Saga, DLQ e idempotência
-- ✅ Cobertura **JaCoCo ≥ 80%** sustentada com JUnit 5, Testcontainers e gates de qualidade em CI
-- 🛠️ **GitOps end-to-end** com ArgoCD, Gitea e k3d — reproduzível localmente com um único comando
-- 🤖 **AI Applied**: 10 agentes Copilot, 7 prompts e 6 `applyTo` aplicando **SDD** em microsserviços reais
-- 🧠 Open source **AIOS / Companion** — governança de IA no SDLC (intent → políticas → agents-as-plugins → quality gates)
-- 🌐 Portfólio enterprise-ready (**React 19 + Vite 8 + Cloudflare + Supabase + Decap CMS**) — [site](https://kleilson-portfolio.pages.dev) · [repo](https://github.com/KleilsonSantos/kleilson-portfolio)
-- ⭐ **330+ contribuições** no GitHub no último ano | conquistas: Pull Shark ×3, Quickdraw, YOLO
-
----
-
-### 🧰 Principais Projetos
-
-#### Destaques — Backend · AppSec · Full Stack
-
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| 🏦 [banking](https://github.com/KleilsonSantos/banking) | Java 21, Spring Boot, Angular 18, Kubernetes, Prometheus, GitOps | Plataforma full stack bancária — observabilidade, segurança e CI/CD alinhados a práticas de plataforma |
-| 🌐 [kleilson-portfolio](https://github.com/KleilsonSantos/kleilson-portfolio) | React 19, Vite 8, TypeScript, Cloudflare, Supabase, Decap | Portfólio enterprise-ready — conteúdo auditável, ADRs, CMS Git-backed ([site](https://kleilson-portfolio.pages.dev)) |
-| 🔐 [VaultSpring](https://github.com/KleilsonSantos/VaultSpring) | Spring Boot, HashiCorp Vault, Testcontainers | Gestão segura de segredos — AppSec operacional com testes de integração reproduzíveis |
-| 📊 [infra-devtools](https://github.com/KleilsonSantos/infra-devtools) | Docker, SonarQube, Prometheus, Grafana, OWASP | Stack DevSecOps para times — qualidade, segurança e monitoramento via Makefile |
-
-#### Labs — AI Applied Engineering
-
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| 🧠 [AIOS](https://github.com/KleilsonSantos/ai-operating-system) | TypeScript, MCP, Turborepo, React, Vitest | Control plane open source de governança de IA no SDLC (intent → políticas → quality gates) |
-| 💬 [AIOS Companion](https://github.com/KleilsonSantos/aios-companion) | TypeScript, React 19, Vite, MCP, Node.js | Experiência CLI/UI sobre o AIOS — Conversation Manager, doctor e auditoria |
-| 🤖 [ai-driven](https://github.com/KleilsonSantos/ai-driven) | Shell Script, AI Workflows | Toolkit de automações AI-driven — linha anterior à disciplina AI Applied (AIOS/Companion) |
-
-#### Outros projetos
-
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| 🛡️ [appsec-daily-hub](https://github.com/KleilsonSantos/appsec-daily-hub) | HTML, OWASP, DevSecOps | Hub de conteúdo AppSec — vulnerabilidades críticas, ferramentas OWASP e tutoriais |
-| ⚙️ [Mongo-RestFull-API](https://github.com/KleilsonSantos/Mongo-RestFull-API) | Node.js, Express, TypeScript, MongoDB, JWT | API REST com CRUD, autenticação JWT e middlewares de segurança |
-| 🛒 [OrderProcessingSystem](https://github.com/KleilsonSantos/OrderProcessingSystem) | Java, Spring Boot, Spring Batch, Redis | Processamento assíncrono de pedidos com foco em performance e alto volume |
-
----
-
-### 🧪 Boas Práticas
-
-- ✅ **Clean Code** e **SOLID** — nomenclatura intencional, responsabilidade única, inversão de dependência
-- ✅ **Clean Architecture** / **Hexagonal (Ports and Adapters)** — isolamento de domínio e infraestrutura
-- ✅ **Domain-Driven Design (DDD)** — aggregates, bounded contexts, ubiquitous language
-- ✅ **AI Applied Engineering** — GitHub Copilot, **Spec-Driven Development (SDD)**, agentes customizados, prompt engineering e arquivos de instruções (`AGENTS.md`, `applyTo`) IDE-agnósticos
-- ✅ **Governança de IA no SDLC** — intent → spec → implementação → quality gates (labs open source AIOS/Companion)
-- ✅ **TDD, BDD e testes de integração** — JUnit 5, Mockito, MockMvc, Testcontainers, JaCoCo ≥ 80%
-- ✅ **AppSec**: Mend (SCA), Fortify (SAST), OWASP Dependency-Check, CVE triage, HashiCorp Vault
-- ✅ **CI/CD** com GitHub Actions, ArgoCD e validações automatizadas antes do deploy
-- ✅ **Observabilidade** — Prometheus, Grafana, Micrometer, Spring Boot Actuator (liveness/readiness probes)
-- ✅ **ADRs** e documentação de Best Practices adotados como padrão do squad
-- ✅ **Conventional Commits** + Git workflow com branches `feat/`, `fix/`, `chore/` a partir de `main` atualizado
-
----
-
-### 🏅 Certificações
-
-| Ano | Certificação | Plataforma |
-|-----|--------------|------------|
-| 2023 | Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft |
-
----
-
-### 📚 Cursos e Certificados Udemy
-
-> **23 cursos Udemy** (evidência em certificados locais) + certificação Microsoft AI-900 — alinhados ao perfil Senior Backend / Full Stack.
-
-#### 🤖 AI Applied Engineering
-| Ano | 🎓 Curso | 🔧 Tecnologias |
-|-----|----------|----------------|
-| 2025 | **Automação com n8n e Agentes de Inteligência Artificial** | n8n, AI Agents, LLM, Automação de Workflows |
-| 2025 | **Engenharia de Prompt — ChatGPT, Gemini, Meta AI, Grok e mais** | Prompt Engineering, ChatGPT, Claude, Gemini |
-| 2025 | **Inteligência Artificial — Buscas em Textos com Python** | Python, NLP, Busca textual, IA |
-| 2025 | **Acelerando o Desenvolvimento com GitHub Copilot** | GitHub Copilot, Agent Mode, Edits, SDD |
-
-#### 🏛️ Arquitetura de Software
-| Ano | 🎓 Curso | 🔧 Tecnologias |
-|-----|----------|----------------|
-| 2024 | **Arquitetura Hexagonal com Java — C1** | Java, Hexagonal, Ports and Adapters |
-| 2024 | **Arquitetura Hexagonal — Ports and Adapters na Prática** | Java, Hexagonal, DDD, Clean Architecture |
-
-#### ⚙️ Backend — Kafka
-| Ano | 🎓 Curso | 🔧 Tecnologias |
-|-----|----------|----------------|
-| 2024 | **Apache Kafka para Iniciantes** | Kafka, KRaft, Producers, Consumers, Topics |
-
-#### ⚙️ Backend — Java & Microsserviços
-| Ano | 🎓 Curso | 🔧 Tecnologias |
-|-----|----------|----------------|
-| 2023 | **Testes Unitários em Java — JUnit 4, Mockito e TDD** | JUnit, Mockito, TDD, Cobertura, Métricas |
-| 2023 | **Java — Pacotes, Lambdas, Streams e Interfaces Gráficas** | Java Avançado, Lambdas, Streams, Spring Boot |
-| 2023 | **Microsserviços Java com Spring Boot e Spring Cloud** | Spring Boot, Spring Cloud, Microsserviços |
-| 2023 | **Padrões de Projeto em Java na Prática** | Design Patterns, Java, OOP |
-| 2023 | **Domine Microsserviços e Mensageria com Spring Cloud e Docker** | Spring Cloud, Docker, RabbitMQ, Config Server |
-| 2023 | **Introdução a Microsserviços** | Microsserviços, REST, Arquitetura Distribuída |
-
-#### ⚙️ Backend — Node.js & Python
-| Ano | 🎓 Curso | 🔧 Tecnologias |
-|-----|----------|----------------|
-| 2023 | **Introdução ao Node.js + Express** | Node.js, Express, EJS, MySQL |
-| 2024 | **Programação em Python do Básico ao Avançado** | Python, OOP, APIs, Automação |
-
-#### ☁️ Cloud
-| Ano | 🎓 Curso | 🔧 Tecnologias |
-|-----|----------|----------------|
-| 2023 | **Certificação Amazon AWS para Iniciantes** | AWS S3, EC2, IAM, VPC |
-| 2023 | **Fundamentals AI-900 Exam Prep** | Azure AI, Cognitive Services, ML Fundamentals |
-
-#### 🔧 DevOps & Ferramentas
-| Ano | 🎓 Curso | 🔧 Tecnologias |
-|-----|----------|----------------|
-| 2023 | **Git e GitHub do Básico ao Avançado** | Git CLI, Branches, Rebase, Pull Requests, Gist |
-
-#### 🌐 Frontend
-| Ano | 🎓 Curso | 🔧 Tecnologias |
-|-----|----------|----------------|
-| 2024 | **Angular 2 v17 — TypeScript do Básico ao Avançado** | Angular, TypeScript, RxJS, HTTP Client |
-| 2022 | **Angular JS na Prática** | AngularJS, CRUD, SPA, Rotas |
-| 2023 | **Aprenda JavaScript, jQuery, Ajax e JSON do Zero na Prática** | JavaScript, jQuery, Ajax, DOM |
-
-#### 📘 TypeScript
-| Ano | 🎓 Curso | 🔧 Tecnologias |
-|-----|----------|----------------|
-| 2024 | **TypeScript do Básico ao Avançado com React e Express** | TypeScript, React, Express, Node.js |
-| 2024 | **Aprenda TypeScript em 7 Dias com Projetos Reais** | TypeScript, Interfaces, Generics, Decorators |
-
----
-
-### 📊 GitHub Summary Cards
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KleilsonSantos&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KleilsonSantos&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KleilsonSantos&theme=github_dark&utcOffset=-3" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KleilsonSantos&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KleilsonSantos&theme=github_dark" alt="Most Used Languages" />
+  <a href="https://kleilson-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-kleilson--portfolio.pages.dev-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/kleilson-dev-full-stack/"><img src="https://img.shields.io/badge/LinkedIn-kleilson--dev--full--stack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kleilson@icloud.com"><img src="https://img.shields.io/badge/E--mail-kleilson%40icloud.com-181717?style=for-the-badge&logo=icloud&logoColor=white" alt="E-mail"></a>
 </p>
 
----
+## Sobre
 
-### 📈 Estatísticas
+Mais de 9 anos em sistemas do setor financeiro: microsserviços event-driven, Apache Kafka e AppSec. Autor do [AIOS](https://github.com/KleilsonSantos/ai-operating-system), plataforma open source de governança de IA no SDLC.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KleilsonSantos&show_icons=true&theme=github_dark&count_private=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KleilsonSantos&theme=github_dark" alt="Streak" />
-</p>
+- 📍 Paulo Afonso, Bahia, Brasil · Remoto · Tempo integral
+- ☕ Backend com **Java 21**, **Spring Boot 4.x** e **Apache Kafka**, em arquitetura hexagonal (Saga, DLQ e idempotência)
+- 🔐 **AppSec e DevSecOps**: Mend (SCA), Fortify (SAST), SonarQube e OWASP Dependency-Check
+- 🖥️ Full stack com Angular, React e TypeScript
+- 🤖 IA aplicada: GitHub Copilot, Spec-Driven Development (SDD) e agentes customizados
+- 🏅 Certificação Microsoft Azure AI Fundamentals (AI-900)
 
----
+## Destaques
 
-## 🛠️ Tech Stack
+- **50%** de redução em vulnerabilidades com Mend (SCA) e Fortify (SAST)
+- **20+ APIs RESTful** em Spring Boot com arquitetura hexagonal
+- **≥ 80%** de cobertura de testes JaCoCo com JUnit 5 e Testcontainers
+- Migração **Spring Boot 2→3→4** sem downtime, com eliminação das APIs depreciadas
+- **GitOps** end-to-end com ArgoCD, Gitea e k3d
+- **SDD** aplicado com 10 agentes Copilot, 7 prompts e 6 `applyTo`
 
-### ☕ Backend
-<p>
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
-  <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 4">
-  <img src="https://img.shields.io/badge/Spring_Security_6-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security 6">
-  <img src="https://img.shields.io/badge/Spring_Kafka-6DB33F?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Spring Kafka">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
+## Projetos
 
-### 📨 Mensageria & Streaming
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-</p>
+### Em destaque
 
-### ☁️ Cloud, Containers & GitOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-</p>
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [AIOS](https://github.com/KleilsonSantos/ai-operating-system) | AI Operating System: control plane de governança de IA no SDLC (intent → políticas → agents-as-plugins → quality gates) | MCP, TypeScript, Turborepo, React, Vitest |
+| [VaultSpring](https://github.com/KleilsonSantos/VaultSpring) | Serviço Spring Boot de credenciais seguras, com segredos no HashiCorp Vault, autenticação JWT/RBAC e CI DevSecOps | Spring Boot, Vault, PostgreSQL, Flyway, Testcontainers |
+| [cloud-event-lab](https://github.com/KleilsonSantos/cloud-event-lab) | Lab de eventos cloud-native multi-cloud, com profiles local, AWS, Azure e GCP validados em emuladores (não é produção em cloud real) | Java 21, Spring Boot, OpenTelemetry, React, Kubernetes |
 
-### 🔐 AppSec & DevSecOps
-<p>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
-  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-</p>
+### Outros
 
-### 🔍 Observabilidade & Qualidade
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Micrometer-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Micrometer">
-</p>
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [AIOS Companion](https://github.com/KleilsonSantos/aios-companion) | Experiência CLI/UI sobre o AIOS via MCP (Conversation Manager, doctor e auditoria) | TypeScript, React 19, Vite, MCP |
+| [infra-devtools](https://github.com/KleilsonSantos/infra-devtools) | Stack DevSecOps para times, com automação via Makefile | Docker, SonarQube, Prometheus, Grafana, OWASP |
+| [kleilson-portfolio](https://github.com/KleilsonSantos/kleilson-portfolio) | Código-fonte do [portfólio](https://kleilson-portfolio.pages.dev) | React, TypeScript, Vite, Cloudflare |
+| [Mongo-RestFull-API](https://github.com/KleilsonSantos/Mongo-RestFull-API) | API REST com CRUD, autenticação JWT e middlewares de segurança | Node.js, Express, TypeScript, MongoDB |
+| [appsec-daily-hub](https://github.com/KleilsonSantos/appsec-daily-hub) | Hub de conteúdo AppSec: vulnerabilidades críticas, ferramentas OWASP e tutoriais | HTML, OWASP |
+| [OrderProcessingSystem](https://github.com/KleilsonSantos/OrderProcessingSystem) | Processamento assíncrono de pedidos com foco em performance | Java, Spring Boot, Spring Batch, Redis |
 
-### 🗃️ Bancos de Dados
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL_16-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway">
-</p>
+## Competências
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS">
-</p>
-
-### 🤖 AI Applied Engineering
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot">
-  <img src="https://img.shields.io/badge/Spec--Driven_Development-22D3EE?style=for-the-badge&logo=gitbook&logoColor=white" alt="SDD">
-  <img src="https://img.shields.io/badge/MCP-412991?style=for-the-badge&logo=protocol&logoColor=white" alt="MCP">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=googlebard&logoColor=white" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/Azure_AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI-900">
-</p>
-
-### 🔧 Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin">
-  <img src="https://img.shields.io/badge/RedisInsight-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="RedisInsight">
-</p>
-
----
-
-### 📬 Contato
-
-- 📧 Email: kleilson@icloud.com  
-- 🔗 LinkedIn: [linkedin.com/in/kleilson-dev-full-stack](https://www.linkedin.com/in/kleilson-dev-full-stack/)
-- 🌐 Site: [kleilson-portfolio.pages.dev](https://kleilson-portfolio.pages.dev)
-- 💻 GitHub: [github.com/KleilsonSantos](https://github.com/KleilsonSantos)
-
-<p align="center">⚡ Construa com segurança, teste com propósito, automatize com clareza.<br>by Kleilson Santos 🚀</p>
-
+| Área | Tecnologias |
+|------|-------------|
+| Backend e arquitetura | Java 21 · Spring Boot 4.x · Apache Kafka · Arquitetura Hexagonal · Microsserviços · Node.js |
+| DevSecOps e cloud | Docker · Kubernetes · ArgoCD · GitHub Actions · SonarQube · OWASP Top 10 · Azure · AWS |
+| IA aplicada | GitHub Copilot · Spec-Driven Development · Agentes customizados · Prompt engineering · n8n · MCP |
+| Frontend | React · Angular · TypeScript · JavaScript · HTML5 · CSS3 |
+| Dados e observabilidade | PostgreSQL · MongoDB · Redis · Prometheus · Grafana · Spring Actuator |
