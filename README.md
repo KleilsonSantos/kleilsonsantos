@@ -105,7 +105,7 @@ Mais de 9 anos em sistemas do setor financeiro: microsserviços event-driven, Ap
 ### ☕ Backend & Arquitetura
 <p>
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
-  <img src="https://img.shields.io/badge/Spring_Boot_4.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 4.x">
+  <img src="https://img.shields.io/badge/Spring_Boot_4.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&cacheSeconds=86400" alt="Spring Boot 4.x">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
   <img src="https://img.shields.io/badge/Arquitetura_Hexagonal-0F172A?style=for-the-badge" alt="Arquitetura Hexagonal">
   <img src="https://img.shields.io/badge/Microsservi%C3%A7os-0F172A?style=for-the-badge" alt="Microsserviços">
@@ -128,7 +128,7 @@ Mais de 9 anos em sistemas do setor financeiro: microsserviços event-driven, Ap
 <p>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot">
   <img src="https://img.shields.io/badge/Spec--Driven_Development-22D3EE?style=for-the-badge&logo=gitbook&logoColor=white" alt="Spec-Driven Development">
-  <img src="https://img.shields.io/badge/Agentes_customizados-0F172A?style=for-the-badge" alt="Agentes customizados">
+  <img src="https://img.shields.io/badge/Agentes_customizados-0F172A?style=for-the-badge&cacheSeconds=86400" alt="Agentes customizados">
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=googlebard&logoColor=white" alt="Prompt Engineering">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/MCP-412991?style=for-the-badge&logo=protocol&logoColor=white" alt="MCP">
@@ -152,5 +152,5 @@ Mais de 9 anos em sistemas do setor financeiro: microsserviços event-driven, Ap
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Spring_Actuator-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Actuator">
+  <img src="https://img.shields.io/badge/Spring_Actuator-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&cacheSeconds=86400" alt="Spring Actuator">
 </p>
